@@ -1,0 +1,10 @@
+## Interface: 110002  # (Update this depending on the WoW version)
+## Title: Khamul's Fishing Helper Datastore
+## Notes: Simple addon to store data about caught fishes with the weakaura
+## SavedVariables: KhamulsFishingHelperDatastoreDB
+## SavedVariablesPerCharacter: KhamulsFishingHelperDatastoreCharDB
+## Author: Khamûl-Antondias
+## X-Email: neytiri-amanthul@gmx.at
+## Version: 1.0.0
+
+KhamulsFishingHelperDatastore.lua
